@@ -1,13 +1,13 @@
 # Actividad clase 2
 
-#1
+#1 Escribe un programa que pida al usuario su nombre y apellido, y luego los imprima juntos en un mensaje de saludo.
 nombre = input("Por favor, ingresa tu nombre: ")
 
 apellido = input("Por favor, ingresa tu apellido: ")
 
 print(f"Hola, {nombre} {apellido}! Bienvenido/a.")
 
-#2
+#2 Crea una variable llamada precio con el valor 100. Calcula el precio con un descuento del 15% y muestra el precio final.
 precio = 100
 
 descuento = precio * 0.15
